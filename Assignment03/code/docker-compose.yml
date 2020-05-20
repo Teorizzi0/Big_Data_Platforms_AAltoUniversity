@@ -1,0 +1,41 @@
+version: '1'
+
+services: 
+  rabbitmq:
+    container_name: rabbitmq1
+    image: "rabbitmq:3.8.1-management-alpine"
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASSWORD: guest
+    networks: 
+      - assignment
+  jobmanager:
+    image: "flink:latest"
+    expose:
+      - "6123"
+    ports:
+      - "8081:8081"
+    command: jobmanager
+    environment:
+      - JOB_MANAGER_RPC_ADDRESS=jobmanager
+    networks: 
+      - assignment
+  taskmanager:
+    image: "flink:latest"
+    expose:
+      - "6121"
+      - "6122"
+    depends_on:
+      - jobmanager
+    command: taskmanager
+    environment:
+      - JOB_MANAGER_RPC_ADDRESS=jobmanager
+    networks: 
+      - assignment
+networks:
+  assignment: {}
+
+    

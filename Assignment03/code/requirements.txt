@@ -1,0 +1,10 @@
+multiprocess
+pymongo
+django
+matplotlib
+pandas
+pymongo
+paho-mqtt
+argparse
+uuid
+
