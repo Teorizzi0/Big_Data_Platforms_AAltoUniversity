@@ -1,0 +1,366 @@
+commit e9b0b7649a3247c149a20ec219409e80bff41309
+Merge: cda12a1 cdb59d4
+Author: Matteo Rizzi <matteo4.rizzi@mail.polimi.it>
+Date:   Thu Oct 10 23:00:31 2019 +0300
+
+    Resolved merge conflict.
+
+commit cdb59d44d311f29c708d1b2daebed6954563ad14
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:49:18 2019 +0300
+
+    Update selfgrading.csv
+
+commit 273411631640f543d7b2f0cfb04ce383548fa8db
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:48:42 2019 +0300
+
+    Delete demolink.txt
+
+commit 66a1237906b22a340556a3db8fd4162fbb82d6ae
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:47:31 2019 +0300
+
+    Update README.md
+
+commit 2639ed24027e91cb8cd3fbab8702e37fca4d4eec
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:46:54 2019 +0300
+
+    Delete performance.log
+
+commit 7eb4869ee22a07f6ae242385c6a60b7b944d23da
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:45:09 2019 +0300
+
+    Update Assignment-01-Design.md
+
+commit dfe3943db660353ea40b25da8be3a96b4c8c8032
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:44:04 2019 +0300
+
+    Update Assignment-01-Design.md
+
+commit 2e63bcc18f4a9d6dc271a557681906a86fd16617
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:43:08 2019 +0300
+
+    Update Assignment-01-Design.md
+
+commit b5b2e33a021cda305159ac948428f4eeeaab87ca
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:40:33 2019 +0300
+
+    Update Assignment-01-Design.md
+
+commit f94bb7a0a77ee86ec3ce756a7bbc0ddc3a869bf3
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:23:50 2019 +0300
+
+    Add files via upload
+
+commit 9ccda253369241991e5b700acf0ea104f7615c83
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:23:18 2019 +0300
+
+    Add files via upload
+
+commit 2a47a2b8ceaa0956bdcec56ec65ae8c84f4ad96d
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:22:12 2019 +0300
+
+    Update Assignment-01-Design.md
+
+commit 5b4e738f8481d5e321306fc51141ae057eded29f
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:21:45 2019 +0300
+
+    Update and rename reports_Assignment-Nr-Design.md to Assignment-01-Design.md
+
+commit 9ea8f0b3b2566ab013f13da9a29cb12d94ce71d0
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:19:35 2019 +0300
+
+    Update Report.md
+
+commit 90b05adf55288f334b8c79bf08c32580f6247b4d
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:15:00 2019 +0300
+
+    Rename Assignment-01-Deployment.md to reports/Assignment-01-Deployment.md
+
+commit 0cd5e2a50ab11324a92032e65d4de6388a057fe9
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:14:30 2019 +0300
+
+    Update and rename reports/reports_Assignment-Nr-Deployment.md to Assignment-01-Deployment.md
+
+commit c21f4e678d8dca09b4095bc795addf3013d2359e
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:13:25 2019 +0300
+
+    Add files via upload
+
+commit 0ab2d7fc69b97072ab7be3db1f3edb81a4a1611a
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:12:37 2019 +0300
+
+    Delete Assignment-01-Deployment
+
+commit f2bbf8614cac6668fc1c0ddb8f0fc96717c55a25
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 20:12:16 2019 +0300
+
+    Create Assignment-01-Deployment
+
+commit 4debcc15ff9aeb0fa0040c9a760a06fa0373d237
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 19:18:12 2019 +0300
+
+    Update Report.md
+
+commit 5c3aac754f1f7a05143c950dc2e15b95a157e152
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 13:11:24 2019 +0300
+
+    Update Report.md
+
+commit fab0c97c6d2f4c77e3d41c2cf29f1c2a1ef4a21d
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 13:10:30 2019 +0300
+
+    Update Report.md
+
+commit 891420e91a31795d5c3b682a52fb48814a0c1d05
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 13:00:41 2019 +0300
+
+    Update Report.md
+
+commit 89bbc3639e11bb9c4eb34e3f6918bf4ae758df27
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 12:56:12 2019 +0300
+
+    Add files via upload
+
+commit 8082b51d70f4c67f8709144e69502fe4300950ad
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 12:55:44 2019 +0300
+
+    Update Report.md
+
+commit 80d5262904907d2fd30f3113afcca7f6acb4bd2b
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 12:54:29 2019 +0300
+
+    Update Report.md
+
+commit ba52aa54ca76d1388adbbb287bf1585ca75b29dc
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 12:53:27 2019 +0300
+
+    Rename storedataset.oy.py to storedataset.py
+
+commit 2b0d5f33ff3b0e20fbc401ef5712b1cf44460456
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 12:52:32 2019 +0300
+
+    Update Report.md
+
+commit 93a760e2f8e0e861d13750446d11fdcbe71a7bc3
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 12:49:40 2019 +0300
+
+    Add files via upload
+
+commit 2be6c2a2fc3afacdfa58ec274afce2d22602d6b0
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 12:48:48 2019 +0300
+
+    Update Report.md
+
+commit 4f96e2372e6039524b4f31c3153fe24427443c28
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 12:44:41 2019 +0300
+
+    Update README.md
+
+commit 837c44fee369491ddb4db30e161c958a8dfbbf3f
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Oct 10 12:22:40 2019 +0300
+
+    Update Report.md
+
+commit c399e9379c22693ef8e3fee558e8869b919112a5
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Wed Oct 9 22:57:43 2019 +0300
+
+    Update Report.md
+
+commit 9060a4dd660890fa3eb8cfb2c57e6282ef9e41a1
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Wed Oct 9 22:21:15 2019 +0300
+
+    Update Report.md
+
+commit 6ea66ceb76c05f763e198807fff7c73e15f01fb1
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Wed Oct 9 22:02:30 2019 +0300
+
+    Add files via upload
+
+commit 4fa19f27309e739788228dafd79a901b5990a231
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Wed Oct 9 22:02:14 2019 +0300
+
+    Delete mongo_kafka_mongo.png
+
+commit 18875161bd33d1db28dcb54887ae481c06f6737c
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Wed Oct 9 22:02:05 2019 +0300
+
+    Delete different_input.png
+
+commit f291fd5a1cf55b8d2d2d1e5bb0bc4c15d51ef8c6
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 22:38:44 2019 +0300
+
+    Update Report.md
+
+commit 7dd65df05a1ff600d9ee5e3634f81c12223e579b
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 22:38:14 2019 +0300
+
+    Update Report.md
+
+commit e4b407fcad4df2f6338e70885a21059d006f402a
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 22:33:08 2019 +0300
+
+    Update Report.md
+
+commit ae2175a5db51b0b8f98060269c61878c0423ac66
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 22:32:47 2019 +0300
+
+    Update Report.md
+
+commit 5b0cc125f14d2d514fc1839b441d9a5b27d23dc6
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 22:32:19 2019 +0300
+
+    Update Report.md
+
+commit a3ff77895b8b631cea0ad11494ec9b84fe1be81c
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 22:30:49 2019 +0300
+
+    Update Report.md
+
+commit 100511970c26cd5bfb014d5c02b6ccb1bea22ee7
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 21:37:13 2019 +0300
+
+    Add files via upload
+
+commit 76d880b64de14e101c29983bae6df685ff156bfd
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 21:37:02 2019 +0300
+
+    Delete mongo_kafka_mongo.png
+
+commit 1fa655669946f3b7a2715e8ae2ee1607386b92d3
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 21:33:11 2019 +0300
+
+    Update Report.md
+
+commit e3d53b49be06cdfaf8d04f18b82093dcb088d599
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 21:32:32 2019 +0300
+
+    Add files via upload
+
+commit dcc3b67cf960d8be9f022a26728e11d4b5d06893
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 21:32:21 2019 +0300
+
+    Delete csv_kafka_mongo.png
+
+commit ce94888772980141af8ff70123ac0178ae2a2d41
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 21:29:37 2019 +0300
+
+    Update Report.md
+
+commit 753962400f41579e51309a2ca215a14a3f8167c7
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 21:27:42 2019 +0300
+
+    Update Report.md
+
+commit a8506428f425078d97bd5ce5e4eb7775ecb2da51
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 21:26:59 2019 +0300
+
+    Update Report.md
+
+commit 87ff60ead9fd1f50d30d2551b23c80da8446c910
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 21:13:56 2019 +0300
+
+    Add files via upload
+
+commit cda12a12dd9ecf4c5e602781cd71241515121557
+Author: Matteo Rizzi <matteo4.rizzi@mail.polimi.it>
+Date:   Tue Oct 8 21:08:01 2019 +0300
+
+    commit
+
+commit 8394a749a3305530f0deaff24f6b22bd5e2ace0f
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 20:59:36 2019 +0300
+
+    Delete different_input.png
+
+commit d3922e0461a8f8d319eb7a733de172f38dd8efe0
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 20:59:25 2019 +0300
+
+    Delete csv_kafka_mongo.png
+
+commit 7174608cadd43362de3ecaad739cb75f43f62639
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Tue Oct 8 20:56:53 2019 +0300
+
+    Add files via upload
+
+commit e23f62411edb9aed280241335ef1c61628a7e4bb
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Sat Oct 5 19:50:08 2019 +0300
+
+    Delete data.csv
+
+commit 89fb7c0cf4dc1c0ebcef35e0392d6713811bc8e0
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Sat Oct 5 19:49:24 2019 +0300
+
+    Add files via upload
+
+commit 7e54a286195f2a53fe89a1676df808c38ee06caf
+Author: Matteo Rizzi <44029782+Teorizzi0@users.noreply.github.com>
+Date:   Thu Sep 26 11:13:25 2019 +0300
+
+    Update README.md
+
+commit 459af8158d431717dcc7207e9cd0661f214e3ea8
+Author: Matteo Rizzi <matteo4.rizzi@mail.polimi.it>
+Date:   Wed Sep 25 22:15:09 2019 +0300
+
+    First commit
+
+commit 3f2945c8316187192f0d405cd079bc571bd77fcc
+Author: Matteo Rizzi <matteo4.rizzi@mail.polimi.it>
+Date:   Wed Sep 25 22:08:58 2019 +0300
+
+    first commit
